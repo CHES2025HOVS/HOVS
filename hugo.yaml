@@ -135,7 +135,7 @@ params:
                 linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
             images:
                 logo: logos/medicon-512.webp
-                titleBackground: images/pexels-caleboquendo-3023317.webp
+                titleBackground: images/HOVS-background.webp
                 location: images/habermehlstr.webp
             sponsors:
                 - logo: logos/medialesson-logo.svg
