@@ -91,19 +91,8 @@ languages:
                         #### By Car
                         - Set the destination to Kuala Lumpur Convention Centre.
                     aboutUs: |
-                        ### Mission
-                        We help companies and organizations to digital transform their business, products and processes through consulting,
-                        strategy, design, software development and training using cutting edge technology.
-
-                        ### Established
-                        - **2002** - Founded
-
-                        ### Our Team
-                        - **25+** Employees
-                        - **5** Nationalities
-
-                        ### Additional Info
-                        - We bring together diverse expertise and innovation.
+                        #### This is a test page
+                            CHES 2025 Workshop - About Us
 
 params:
     # Open Graph / X (Twitter) Cards
@@ -111,7 +100,7 @@ params:
         - logos/HOVS.png
     themes:
         event:
-            sessionizeId: i2rlp8lr
+            sessionizeId: 67poir7q
             title: Hardware Oriented Vehicle Security
             shortTitle: HOVS
             startDate: 2025-09-14
