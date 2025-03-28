@@ -92,7 +92,7 @@ languages:
                         - Set the destination to Kuala Lumpur Convention Centre.
                     aboutUs: |
                         #### This is a test page
-                            CHES 2025 Workshop - About Us
+                        - CHES 2025 Workshop - About Us
 
 params:
     # Open Graph / X (Twitter) Cards
@@ -100,7 +100,7 @@ params:
         - logos/HOVS.png
     themes:
         event:
-            sessionizeId: q9sowpwh
+            sessionizeId: tk5aamjs
             title: Hardware Oriented Vehicle Security
             shortTitle: HOVS
             startDate: 2025-09-14
@@ -148,14 +148,15 @@ params:
                   url: https://www.huawei.com/en/
                   name: 'Huawei'
             organizers:
-                - '00000000-0000-0000-0000-000000000000'
-                - '00000000-0000-0000-0000-000000000001'
-                - '00000000-0000-0000-0000-000000000002'
-                - '00000000-0000-0000-0000-000000000003'
+                - '2b786b92-ff85-4834-a3ea-995c81716f3c'
+                - '726b25f8-a400-4d8e-aa9f-6873e86f958b'
+                - '90831a01-8501-4464-a604-af4c65c119a5'
+                - '7cc3eadc-78a4-4585-9830-9ced29df41cd'
             featuredSessions:
-                - '896295'
-                - '896196'
-                - '896197'
+                - '896375'
+                - '896382'
+                - '896384'
+                - '896389'
             colors:
                 primaryLighter: '#5CB1E8'
                 primary: '#0d81be'
