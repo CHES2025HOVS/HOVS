@@ -65,8 +65,7 @@ languages:
         params:
             # Open Graph / X (Twitter) Cards
             description: |
-                A demo website to showcase the features of the "Event" theme for the
-                static website generator HUGO.
+                CHES 2025 Workshop - Hardware Oriented Vehicle Security (HOVS)
             themes:
                 event:
                     slogan: Hardware Oriented Vehicle Security (HOVS)
@@ -118,14 +117,15 @@ params:
             startDate: 2025-09-14
             endDate: 2025-09-18
             address:
-                - Building
-                - Street
+                - Kuala Lumpur Convention Centre
+                - Jalan Pinang
+                - Wilayah Persekutuan
                 - Kuala Lumpur
                 - Malaysia
             map:
-                embeddableMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977?scrollWheelZoom=false
-                viewLargerMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977
-                # Link to edit the map: https://umap.openstreetmap.fr/en/map/anonymous-edit/1105977:HjtVVnbwCn6Yi3O02DTPnspzuyoHvP_Kn-M9rE53eE8
+                embeddableMapUrl: //umap.openstreetmap.fr/en/map/ches-2025_1198683?scrollWheelZoom=false
+                viewLargerMapUrl: //umap.openstreetmap.fr/en/map/ches-2025_1198683
+                # Link to edit the map: https://umap.openstreetmap.fr/en/map/anonymous-edit/1198683:GKHcxYe1KfNRb8ZxWy0JJU-WPjjjqA4Uk6Y0gGghnoM
             callToAction:
                 eventbrite:
                     eventId: 
@@ -137,7 +137,7 @@ params:
             images:
                 logo: logos/HOVS.png
                 titleBackground: images/HOVS-background.webp
-                location: images/habermehlstr.webp
+                location: images/KLCC.jpg
             sponsors:
                 - logo: logos/Zhejiang_University.png
                   url: https://www.zju.edu.cn/english/
