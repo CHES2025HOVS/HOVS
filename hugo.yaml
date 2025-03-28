@@ -109,7 +109,7 @@ languages:
 params:
     # Open Graph / X (Twitter) Cards
     images:
-        - logos/medicon-512.jpg
+        - logos/HOVS_logo.png
     themes:
         event:
             sessionizeId: 67poir7q
@@ -134,7 +134,7 @@ params:
                 facebookUrl: https://www.facebook.com/medialesson/
                 linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
             images:
-                logo: logos/medicon-512.webp
+                logo: logos/HOVS_logo.png
                 titleBackground: images/HOVS-background.webp
                 location: images/habermehlstr.webp
             sponsors:
