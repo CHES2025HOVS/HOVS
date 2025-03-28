@@ -1,0 +1,11 @@
+theme: event
+sectionPagesMenu: main
+params:
+    themes:
+        event:
+            # 👇 Set the name of your event.
+            title: HOVS
+            # 👇 Fetch the ID of your event's API endpoint from
+            # 👇 https://sessionize.com/app/organizer/schedule/api/0
+            # 👇 and enter it here.
+            sessionizeId: k201dsva
