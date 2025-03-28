@@ -1,12 +1,10 @@
 theme: event
-defaultContentLanguage: en
-
 sectionPagesMenu: main
 params:
     themes:
         event:
             # 👇 Set the name of your event.
-            title: HOVS
+            title: Hardware Oriented Vehicle Security
             # 👇 Fetch the ID of your event's API endpoint from
             # 👇 https://sessionize.com/app/organizer/schedule/api/0
             # 👇 and enter it here.
