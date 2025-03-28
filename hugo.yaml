@@ -128,11 +128,12 @@ params:
                 # Link to edit the map: https://umap.openstreetmap.fr/en/map/anonymous-edit/1105977:HjtVVnbwCn6Yi3O02DTPnspzuyoHvP_Kn-M9rE53eE8
             callToAction:
                 eventbrite:
-                    eventId: 976108886957
+                    eventId: 
+                enableBanner: false
             socialLinks:
-                xUrl: https://x.com/medialesson
-                facebookUrl: https://www.facebook.com/medialesson/
-                linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
+                xUrl: 
+                facebookUrl: 
+                linkedinUrl: 
             images:
                 logo: logos/HOVS.png
                 titleBackground: images/HOVS-background.webp
