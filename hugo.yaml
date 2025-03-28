@@ -113,8 +113,8 @@ params:
     themes:
         event:
             sessionizeId: 67poir7q
-            title: HOVS
-            shortTitle:
+            title: Hardware Oriented Vehicle Security
+            shortTitle: HOVS
             startDate: 2025-09-14
             endDate: 2025-09-18
             address:
