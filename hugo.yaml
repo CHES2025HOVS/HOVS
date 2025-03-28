@@ -83,13 +83,13 @@ languages:
                         on this platform.
                     directions: |
                         #### By Public Transportation
-                        Take the number 25 bus from downtown. [Click here for the bus
-                        schedule](https://www.kvv.de/en/plan-trip/timetables.html).
-
-                        #### By Car:
-                        From Downtown: Take Main Street north for 2 miles and turn right on
-                        Elm Street. [Get
-                        directions](https://www.kvv.de/en/plan-trip/timetables.html).
+                        - Take the MRT Kajang Line and get off at Bukit Bintang Station.
+                        
+                        - Take the LRT Kelana Jaya Line and get off at KLCC Station. 
+                        
+                        - Take B103 or B114 and alight at KL Convention Centre bus stop. 
+                        #### By Car
+                        - Set the destination to Kuala Lumpur Convention Centre.
                     aboutUs: |
                         ### Mission
                         We help companies and organizations to digital transform their business, products and processes through consulting,
