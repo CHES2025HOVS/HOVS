@@ -109,7 +109,7 @@ languages:
 params:
     # Open Graph / X (Twitter) Cards
     images:
-        - logos/HOVS_logo.png
+        - logos/HOVS.png
     themes:
         event:
             sessionizeId: 67poir7q
@@ -134,17 +134,29 @@ params:
                 facebookUrl: https://www.facebook.com/medialesson/
                 linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
             images:
-                logo: logos/HOVS_logo.png
+                logo: logos/HOVS.png
                 titleBackground: images/HOVS-background.webp
                 location: images/habermehlstr.webp
             sponsors:
-                - logo: logos/medialesson-logo.svg
-                  url: https://www.media-lesson.com/
-                  name: 'Medialesson GmbH'
+                - logo: logos/Zhejiang_University.png
+                  url: https://www.zju.edu.cn/english/
+                  name: 'Zhejiang University'
+                - logo: logos/Geely.svg
+                  url: https://zgh.com/?lang=en/
+                  name: 'Geely'
+                - logo: logos/Huawei.png
+                  url: https://www.huawei.com/en/
+                  name: 'Huawei'
             partners:
-                - logo: logos/medialesson-logo.svg
-                  url: https://www.media-lesson.com/
-                  name: 'Medialesson GmbH'
+                - logo: logos/Zhejiang_University.png
+                  url: https://www.zju.edu.cn/english/
+                  name: 'Zhejiang University'
+                - logo: logos/Geely.svg
+                  url: https://zgh.com/?lang=en/
+                  name: 'Geely'
+                - logo: logos/Huawei.png
+                  url: https://www.huawei.com/en/
+                  name: 'Huawei'
             organizers:
                 - '00000000-0000-0000-0000-000000000000'
                 - '00000000-0000-0000-0000-000000000001'
