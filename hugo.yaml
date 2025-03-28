@@ -100,7 +100,7 @@ params:
         - logos/HOVS.png
     themes:
         event:
-            sessionizeId: 67poir7q
+            sessionizeId: q9sowpwh
             title: Hardware Oriented Vehicle Security
             shortTitle: HOVS
             startDate: 2025-09-14
@@ -150,12 +150,12 @@ params:
             organizers:
                 - '00000000-0000-0000-0000-000000000000'
                 - '00000000-0000-0000-0000-000000000001'
-                - '00000000-0000-0000-0000-000000000004'
                 - '00000000-0000-0000-0000-000000000002'
+                - '00000000-0000-0000-0000-000000000003'
             featuredSessions:
-                - '896182'
-                - '896183'
-                - '896184'
+                - '896295'
+                - '896196'
+                - '896197'
             colors:
                 primaryLighter: '#5CB1E8'
                 primary: '#0d81be'
