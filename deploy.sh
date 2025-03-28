@@ -10,6 +10,16 @@ else
   echo "./public directory does not exist."
 fi
 
+# Check if the directory /public exists
+if [ -d "./resources" ]; then
+  # If it exists, delete the directory
+  rm -rf ./resources
+  echo "./resources directory has been deleted."
+else
+  # If it doesn't exist, print a message
+  echo "./resources directory does not exist."
+fi
+
 # Check if a commit message was provided as an argument
 if [ -z "$1" ]; then
     # If no commit message is provided, use the current date and time
