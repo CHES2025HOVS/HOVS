@@ -1,4 +1,6 @@
 theme: event
+defaultContentLanguage: en
+
 sectionPagesMenu: main
 params:
     themes:
