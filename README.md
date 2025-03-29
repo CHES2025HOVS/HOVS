@@ -108,7 +108,7 @@ Chair of multiple National Technical Committee for Automotive Standardization (N
 
 ## 9. Funding
 
-The organizers have multiple projects funded by Zhejiang University, Geely Auto, Huawei, and Anti Group, with budgets including the support of non-commercial international academic communications. Costs including the rental of room and devices, food and drink during the coffee break, materials like fliers and name cards, and other related spends can be covered. 
+The organizers have multiple projects funded by Zhejiang University, Geely Auto, Huawei, and Ant Group, with budgets including the support of non-commercial international academic communications. Costs including the rental of room and devices, food and drink during the coffee break, materials like fliers and name cards, and other related spends can be covered. 
 
 ## 10. Previous events
 
