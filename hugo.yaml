@@ -142,11 +142,14 @@ params:
                   url: https://www.zju.edu.cn/english/
                   name: 'Zhejiang University'
                 - logo: logos/Geely.svg
-                  url: https://zgh.com/?lang=en/
-                  name: 'Geely'
+                  url: https://global.geely.com/
+                  name: 'Geely Auto'
                 - logo: logos/Huawei.png
                   url: https://www.huawei.com/en/
                   name: 'Huawei'
+                - logo: logos/Ant_Group.png
+                  url: https://www.antgroup.com/en/
+                  name: 'Ant Group'
             organizers:
                 - '2b786b92-ff85-4834-a3ea-995c81716f3c'
                 - '726b25f8-a400-4d8e-aa9f-6873e86f958b'
