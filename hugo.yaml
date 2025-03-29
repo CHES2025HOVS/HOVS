@@ -132,8 +132,8 @@ params:
                   url: https://www.zju.edu.cn/english/
                   name: 'Zhejiang University'
                 - logo: logos/Geely.svg
-                  url: https://zgh.com/?lang=en/
-                  name: 'Geely'
+                  url: https://global.geely.com/
+                  name: 'Geely Auto'
                 - logo: logos/Huawei.png
                   url: https://www.huawei.com/en/
                   name: 'Huawei'
