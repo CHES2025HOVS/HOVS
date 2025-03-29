@@ -137,6 +137,9 @@ params:
                 - logo: logos/Huawei.png
                   url: https://www.huawei.com/en/
                   name: 'Huawei'
+                - logo: logos/Ant_Group.png
+                  url: https://www.antgroup.com/en/
+                  name: 'Ant Group'
             partners:
                 - logo: logos/Zhejiang_University.png
                   url: https://www.zju.edu.cn/english/
