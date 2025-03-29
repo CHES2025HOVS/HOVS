@@ -36,7 +36,7 @@ git add .
 git commit -m "$COMMIT_MSG"
 
 # Push changes to the 'main' branch
-git push origin main
+GIT_SSH_COMMAND="ssh -i ~/.ssh/CHES2025HOVS_ed25519" git push origin main
 
 # Print a success message
 echo "Changes have been pushed to GitHub successfully!"
