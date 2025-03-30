@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main  # Trigger deployment when changes are pushed to the main branch
+    workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
 
 jobs:
   deploy:
