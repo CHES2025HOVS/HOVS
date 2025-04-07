@@ -22,9 +22,9 @@ languages:
                 - identifier: sponsors
                   pageRef: /sponsors
                   weight: 50
-                - identifier: code_of_conduct
-                  pageRef: /code-of-conduct
-                  weight: 60
+                #- identifier: code_of_conduct
+                #  pageRef: /code-of-conduct
+                #  weight: 60
             footer:
                 - identifier: imprint
                   pageRef: /imprint
@@ -55,13 +55,13 @@ languages:
                       description: |
                           Find out where the event will take place.
                           This section provides details on the venue, directions, and nearby accommodations.
-                - identifier: code_of_conduct
-                  pageRef: /code-of-conduct
-                  weight: 60
-                  params:
-                      description: |
-                          Read about the code of conduct for our event.
-                          This section outlines the expectations for participant behavior and event policies.
+                #- identifier: code_of_conduct
+                #  pageRef: /code-of-conduct
+                #  weight: 60
+                #  params:
+                #      description: |
+                #          Read about the code of conduct for our event.
+                #          This section outlines the expectations for participant behavior and event policies.
         params:
             # Open Graph / X (Twitter) Cards
             description: |
@@ -134,12 +134,12 @@ params:
                 - logo: logos/Geely.svg
                   url: https://global.geely.com/
                   name: 'Geely Auto'
-                - logo: logos/Huawei.png
-                  url: https://www.huawei.com/en/
-                  name: 'Huawei'
-                - logo: logos/Ant_Group.png
-                  url: https://www.antgroup.com/en/
-                  name: 'Ant Group'
+                #- logo: logos/Huawei.png
+                #  url: https://www.huawei.com/en/
+                #  name: 'Huawei'
+                #- logo: logos/Ant_Group.png
+                #  url: https://www.antgroup.com/en/
+                #  name: 'Ant Group'
             partners:
                 - logo: logos/Zhejiang_University.png
                   url: https://www.zju.edu.cn/english/
@@ -147,12 +147,12 @@ params:
                 - logo: logos/Geely.svg
                   url: https://global.geely.com/
                   name: 'Geely Auto'
-                - logo: logos/Huawei.png
-                  url: https://www.huawei.com/en/
-                  name: 'Huawei'
-                - logo: logos/Ant_Group.png
-                  url: https://www.antgroup.com/en/
-                  name: 'Ant Group'
+                #- logo: logos/Huawei.png
+                #  url: https://www.huawei.com/en/
+                #  name: 'Huawei'
+                #- logo: logos/Ant_Group.png
+                #  url: https://www.antgroup.com/en/
+                #  name: 'Ant Group'
             organizers:
                 - '2b786b92-ff85-4834-a3ea-995c81716f3c'
                 - '726b25f8-a400-4d8e-aa9f-6873e86f958b'
