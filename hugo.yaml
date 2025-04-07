@@ -22,9 +22,10 @@ languages:
                 - identifier: sponsors
                   pageRef: /sponsors
                   weight: 50
-                #- identifier: code_of_conduct
-                #  pageRef: /code-of-conduct
-                #  weight: 60
+                - identifier: ches_2025
+                  name: "CHES 2025"
+                  url: https://ches.iacr.org/2025/
+                  weight: 60
             footer:
                 - identifier: imprint
                   pageRef: /imprint
@@ -39,29 +40,29 @@ languages:
                   params:
                       description: |
                           Learn more about our mission, values, and the people behind our organization.
-                          The "About Us" page provides insights into who we are, what we do,
-                          and why we’re passionate about our work.
+                      #    The "About Us" page provides insights into who we are, what we do,
+                      #    and why we’re passionate about our work.
                 - identifier: speakers
                   pageRef: /speakers
                   weight: 30
                   params:
                       description: |
                           Meet our distinguished speakers who will be sharing their expertise.
-                          Learn more about their backgrounds and what they will discuss.
+                        #  Learn more about their backgrounds and what they will discuss.
                 - identifier: location
                   pageRef: /location
                   weight: 40
                   params:
                       description: |
                           Find out where the event will take place.
-                          This section provides details on the venue, directions, and nearby accommodations.
-                #- identifier: code_of_conduct
-                #  pageRef: /code-of-conduct
-                #  weight: 60
-                #  params:
-                #      description: |
-                #          Read about the code of conduct for our event.
-                #          This section outlines the expectations for participant behavior and event policies.
+                        #  This section provides details on the venue, directions, and nearby accommodations.
+                - identifier: ches_2025
+                  name: "CHES 2025"
+                  url: https://ches.iacr.org/2025/
+                  weight: 60
+                  params:
+                      description: |
+                          Visit the official CHES 2025 website.
         params:
             # Open Graph / X (Twitter) Cards
             description: |
