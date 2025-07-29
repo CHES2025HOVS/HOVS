@@ -92,8 +92,7 @@ languages:
                         #### By Car
                         - Set the destination to Kuala Lumpur Convention Centre.
                     aboutUs: |
-                        #### This is a test page
-                        - CHES 2025 Workshop - About Us
+                        - CHES 2025 Workshop HOVS - About Us
 
 params:
     # Open Graph / X (Twitter) Cards
